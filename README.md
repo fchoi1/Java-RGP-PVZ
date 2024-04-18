@@ -8,7 +8,7 @@ This is my first RPG game I made back in Highschool. It demonstrates fundenmenta
 2. Go to `edit` -> `Preferencse`
 3. Add[ `hsa.jar`](/Game/hsa.jar) to Resource Location
 
-![alt text](images/intall.png)
+![alt text](images/install.png)
 
 # Playing Game
 
